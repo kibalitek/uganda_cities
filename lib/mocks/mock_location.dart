@@ -12,7 +12,7 @@ class MockLocation extends Location {
               title: 'How to get there', text: 'Take a taxi from Busia')
         ]),
     Location(
-        name: ' Kabale town, Uganda',
+        name: ' Kabale',
         url:
             'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
         facts: <LocationFact>[
@@ -20,7 +20,7 @@ class MockLocation extends Location {
           LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
         ]),
     Location(
-        name: 'Mbarara town, Uganda',
+        name: 'Mbarara',
         url:
             'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
         facts: <LocationFact>[
@@ -28,7 +28,7 @@ class MockLocation extends Location {
           LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
         ]),
     Location(
-        name: 'Tororo town, Uganda',
+        name: 'Tororo',
         url:
             'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
         facts: <LocationFact>[
@@ -36,7 +36,7 @@ class MockLocation extends Location {
           LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
         ]),
     Location(
-        name: 'Soroti town, Uganda',
+        name: 'Soroti',
         url:
             'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
         facts: <LocationFact>[
@@ -44,7 +44,7 @@ class MockLocation extends Location {
           LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
         ]),
     Location(
-        name: 'Arua town, Uganda',
+        name: 'Arua',
         url:
             'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
         facts: <LocationFact>[
@@ -52,7 +52,7 @@ class MockLocation extends Location {
           LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
         ]),
     Location(
-        name: 'Mbale town, Uganda',
+        name: 'Mbale',
         url:
             'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
         facts: <LocationFact>[
@@ -60,7 +60,7 @@ class MockLocation extends Location {
           LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
         ]),
     Location(
-        name: 'Jinja town, Uganda',
+        name: 'Jinja',
         url:
             'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
         facts: <LocationFact>[
@@ -68,7 +68,7 @@ class MockLocation extends Location {
           LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
         ]),
     Location(
-        name: 'Gulu town, Uganda',
+        name: 'Gulu',
         url:
             'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
         facts: <LocationFact>[
@@ -76,7 +76,7 @@ class MockLocation extends Location {
           LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
         ]),
     Location(
-        name: 'Nebbi town, Uganda',
+        name: 'Nebbi',
         url:
             'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
         facts: <LocationFact>[
@@ -84,7 +84,7 @@ class MockLocation extends Location {
           LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
         ]),
     Location(
-        name: 'Kapchorua town, Uganda',
+        name: 'Kapchorua',
         url:
         'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
         facts: <LocationFact>[
@@ -92,7 +92,7 @@ class MockLocation extends Location {
           LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
         ]),
     Location(
-        name: 'Iganga town, Uganda',
+        name: 'Iganga',
         url:
         'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
         facts: <LocationFact>[
@@ -100,7 +100,7 @@ class MockLocation extends Location {
           LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
         ]),
     Location(
-        name: 'Bugiri town, Uganda',
+        name: 'Bugiri',
         url:
         'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
         facts: <LocationFact>[
@@ -108,7 +108,7 @@ class MockLocation extends Location {
           LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
         ]),
     Location(
-        name: 'Arua town, Uganda',
+        name: 'Arua',
         url:
         'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
         facts: <LocationFact>[
