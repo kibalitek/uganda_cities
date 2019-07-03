@@ -12,13 +12,110 @@ class MockLocation extends Location {
               title: 'How to get there', text: 'Take a taxi from Busia')
         ]),
     Location(
-        name: 'Jinja town, Uganda',
+        name: ' Kabale',
+        url:
+            'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
+        facts: <LocationFact>[
+          LocationFact(title: 'Summary', text: 'The source of the nile'),
+          LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
+        ]),
+    Location(
+        name: 'Mbarara',
+        url:
+            'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
+        facts: <LocationFact>[
+          LocationFact(title: 'Summary', text: 'The source of the nile'),
+          LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
+        ]),
+    Location(
+        name: 'Tororo',
+        url:
+            'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
+        facts: <LocationFact>[
+          LocationFact(title: 'Summary', text: 'The source of the nile'),
+          LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
+        ]),
+    Location(
+        name: 'Soroti',
+        url:
+            'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
+        facts: <LocationFact>[
+          LocationFact(title: 'Summary', text: 'The source of the nile'),
+          LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
+        ]),
+    Location(
+        name: 'Arua',
+        url:
+            'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
+        facts: <LocationFact>[
+          LocationFact(title: 'Summary', text: 'The source of the nile'),
+          LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
+        ]),
+    Location(
+        name: 'Mbale',
+        url:
+            'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
+        facts: <LocationFact>[
+          LocationFact(title: 'Summary', text: 'The source of the nile'),
+          LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
+        ]),
+    Location(
+        name: 'Jinja',
+        url:
+            'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
+        facts: <LocationFact>[
+          LocationFact(title: 'Summary', text: 'The source of the nile'),
+          LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
+        ]),
+    Location(
+        name: 'Gulu',
+        url:
+            'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
+        facts: <LocationFact>[
+          LocationFact(title: 'Summary', text: 'The source of the nile'),
+          LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
+        ]),
+    Location(
+        name: 'Nebbi',
+        url:
+            'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
+        facts: <LocationFact>[
+          LocationFact(title: 'Summary', text: 'The source of the nile'),
+          LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
+        ]),
+    Location(
+        name: 'Kapchorua',
+        url:
+        'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
+        facts: <LocationFact>[
+          LocationFact(title: 'Summary', text: 'The source of the nile'),
+          LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
+        ]),
+    Location(
+        name: 'Iganga',
+        url:
+        'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
+        facts: <LocationFact>[
+          LocationFact(title: 'Summary', text: 'The source of the nile'),
+          LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
+        ]),
+    Location(
+        name: 'Bugiri',
+        url:
+        'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
+        facts: <LocationFact>[
+          LocationFact(title: 'Summary', text: 'The source of the nile'),
+          LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
+        ]),
+    Location(
+        name: 'Arua',
         url:
         'https://www.bujagaliproperty.co.ug/wp-content/uploads/2017/02/Jinja-II.jpg',
         facts: <LocationFact>[
           LocationFact(title: 'Summary', text: 'The source of the nile'),
           LocationFact(title: 'How to get there', text: 'Take a bus from Busia')
         ])
+
   ];
 
   static Location fetchAny() {
